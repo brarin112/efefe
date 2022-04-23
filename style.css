@@ -67,13 +67,12 @@ article {
     font-size: 24px;
     text-align: center;
     padding: 10px 75px 10px 75px;
-    display: flex;
 }
 
 footer {
     background-color: yellow;
     padding: 35px;
-    display: flex
+    display: flex;
 }
 
 footer a {
